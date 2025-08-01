@@ -1,0 +1,9 @@
+# List of words to remove from Firefox history.
+# One word or phrase per line.
+# The search is case-insensitive by default in SQLite's LIKE.
+
+lottery
+casino
+unwanted-keyword
+bingo
+porn
